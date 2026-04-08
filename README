@@ -12,7 +12,7 @@ Elise
 Proposition de logiciel d'interface : dbviewer
 Base de donnée utilisée : openAlex
 
-Methode de travail sur github : 
+Mode de travail sur github : 
 - chaque collaborateur travaille sur sa branche, et jamais dans "main"
 - main est le fichier principal, la version finale vérifiée
 - chaque branche permet de faire des propositions avant qu'elles soient vérifiées, comme ça tout ne se mélange pas
