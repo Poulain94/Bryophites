@@ -1,7 +1,7 @@
 colonnes = ["Composé","Synonyme", "Sous-Catégorie","Activité","Localisation","Milieu de vie","Auteur", "Source"]
 tableau = []
 def ajouter_lignes(valeur):
-  if len(valeurs) != len(colonnes):
+  if len(valeurs) != len(colonnes): #A MODIFIER : LONGUEUR D'UN DICTIONNAIRE ??!
         print("Erreur : le nombre de valeurs ne correspond pas aux colonnes")
         return
     ligne = dict(zip(colonnes, valeurs))
